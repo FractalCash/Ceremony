@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*~
+deleted file
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+$RECYCLE.BIN/

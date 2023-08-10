@@ -1,0 +1,6 @@
+phase1*
+/target/
+**/*.rs.bk
+node_modules
+/*.bin
+/verifier.sol
