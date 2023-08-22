@@ -8,7 +8,7 @@ set -e
 circuits=("wrap" "unwrap" "init-transfer" "complete-transfer")
 maxRequiredRadix=15
 verify=true
-participant=3
+participant=4
 
 ## Style
 underline=`tput smul`
